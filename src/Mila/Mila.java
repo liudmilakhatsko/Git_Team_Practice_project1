@@ -6,6 +6,7 @@ public class Mila {
         System.out.println("Good practice on Saturday");
 
         //added a comment
+        //added a second comment
 
     }
 }
